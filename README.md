@@ -35,7 +35,7 @@ Experienced **Computer Vision & AI Engineer** with 5+ years of hands-on experien
 - NLU & Conversational AI: QA systems, engagement bots, chatbots
 
 ### ☁ **Backend & Deployment**
-- Django, Django REST Framework (DRF), FastAPI
+- Django, FastAPI
 - REST APIs, GraphQL, Dockerized deployment
 - Microservices, Model Serving, Scalable Architecture
 - Real-Time Vision Analytics APIs
