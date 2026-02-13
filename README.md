@@ -112,7 +112,7 @@ Experienced **Computer Vision & AI Engineer** with 5+ years of hands-on experien
 
 ## 🔗 **Profiles & Portfolio**
 - 💼 **LinkedIn:** `syed-ahmad-ibtehaj-ali`  
-- 🧩 **GitHub:** `ibtehajali6`  
+- 🧩 **GitHub:** `ibtehajali67`  
 - 💬 **StackOverflow:** Active contributor  
 
 ---
