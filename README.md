@@ -19,7 +19,7 @@ Experienced **Computer Vision & AI Engineer** with 5+ years of hands-on experien
 ## 🛠 **Tech Stack & Skills**
 
 ### 👁 **Computer Vision**
-- Object Detection: YOLOv5, YOLOv8, YOLOv11, YOLOv12
+- Object Detection: YOLOv5, YOLOv8, YOLOv11, YOLOv12, YOLOv26
 - Vision Transformers: Swin Transformer, ViT
 - Tracking: Multi-Object Tracking, Person Tracking
 - Image Processing: OpenCV, Real-Time Vision Pipelines
